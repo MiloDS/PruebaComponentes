@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Alexander Vargas Mejia
+//16-09-24
+//utilizacion de componentes
 namespace UsandoComponentes
 {
     public partial class Form1 : Form
